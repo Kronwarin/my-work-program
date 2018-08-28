@@ -1,12 +1,14 @@
 # Hello, welcome to my Github page 
 
-ชื่อ นางสาวกรวรินทร์ พุทธวงค์ ชื่อเล่น น้ำหวาน 6008111001
+ชื่อนางสาวกรวรินทร์ พุทธวงค์ ชื่อเล่น น้ำหวาน 6008111001
 
 เรียนคณะเทคโนโลยีสารสนเทศ สาขาวิทยาการคอมพิวเตอร์
 
 ## สถาบัน
 
+
 มหาวิทยาลัยเนชั่น 
+
 
 
 ![Image](https://raw.githubusercontent.com/thaiall/programming-page/master/Nation_University_Logo.png)
@@ -15,10 +17,14 @@
 
 
 
+
+
 ## ประเด็นที่สนใจจะศึกษาคือ
 
 
+
 [ภาษา C#  (ภาษาซีชาร์ป) ](http://marcuscode.com/lang/csharp)
+
 
 ![Image](https://raw.githubusercontent.com/Kronwarin/my-work-program/master/Untitled333.jpg)
 
@@ -34,12 +40,16 @@ C# คือ ภาษาคอมพิวเตอร์ประเภท  ob
 
 ## [คลิกเพื่อดูตัวอย่าง C#](https://github.com/Kronwarin/my-work-program/blob/master/C%23.docx)
 
+
+
+
 ## ประสบการณ์
 
 > ออกแบบข่าวประชาสัมพันธ์ของสำนักงานสถิติจังหวัดน่าน
 
 > ตัวอย่างเช่น
   - [x] การสำรวจการเปลี่ยนแปลงทางการเกษตร พ.ศ.2561
+  
   
   
     ![Image](https://raw.githubusercontent.com/Kronwarin/my-work-program/master/Untitled-2.jpg)
@@ -49,6 +59,7 @@ C# คือ ภาษาคอมพิวเตอร์ประเภท  ob
     
     
   - [x] โครงการการสำรวจความคิดเห็นของประชาชนในการดำเนินงานตามแผนประชารัฐร่วมใจปลอดภัยยาเสพติด พ.ศ.2561
+  
   
   
   
@@ -63,6 +74,7 @@ C# คือ ภาษาคอมพิวเตอร์ประเภท  ob
 > - 2.ออกแบบ Infographic
 > - 3.ฟ้อน รำไทย
 > - 4.เชียร์ลีดเดอร์
+
 
 
 ## แนะนำเพื่อน คนรู้จัก หนังสือที่ชอบ หรือแหล่งเรียนรู้
@@ -83,6 +95,7 @@ C# คือ ภาษาคอมพิวเตอร์ประเภท  ob
 
 
 ![Image](https://raw.githubusercontent.com/Kronwarin/my-work-program/master/Untitled-4.jpg)
+
 
 
 
