@@ -20,7 +20,7 @@
 
 [ภาษา C#  (ภาษาซีชาร์ป) ](http://marcuscode.com/lang/csharp)
 
-![Image](https://github.com/Kronwarin/my-work-program/blob/master/Untitled333.jpg)
+![Image](https://raw.githubusercontent.com/Kronwarin/my-work-program/master/Untitled333.jpg)
 
 
 C# คือ ภาษาคอมพิวเตอร์ประเภท  object-oriented programming พัฒนาโดย  Microsoft โดยมีจุดมุ่งหมายในการวมความสามารถการคำนวณของ C++ ด้วยการโปรแกรมง่ายกว่าของ Visual Basic โดย C# มีพื้นฐานจาก C++ และเก็บส่วนการทำงานคล้ายกับ Java 
