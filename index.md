@@ -39,10 +39,17 @@ C# คือ ภาษาคอมพิวเตอร์ประเภท  ob
 ## ออกแบบข่าวประชาสัมพันธ์ของสำนักงานสถิติจังหวัดน่าน
 > ตัวอย่างเช่น
   - [x] การสำรวจการเปลี่ยนแปลงทางการเกษตร พ.ศ.2561
-    [Link](https://raw.githubusercontent.com/Kronwarin/my-work-program/master/%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%95%E0%B8%A3%20.jpg)
+    ![Image](https://raw.githubusercontent.com/Kronwarin/my-work-program/master/%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%95%E0%B8%A3%20.jpg)
+    
+    
+    
+    
     
   - [x] โครงการการสำรวจความคิดเห็นของประชาชนในการดำเนินงานตามแผนประชารัฐร่วมใจปลอดภัยยาเสพติด พ.ศ.2561
-  [Link](.githubusercontent.com/Kronwarin/my-work-program/master/ยาเสพติด.jpg)
+  ![Image](https://raw.githubusercontent.com/Kronwarin/my-work-program/master/%E0%B8%A2%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%9E%E0%B8%95%E0%B8%B4%E0%B8%94.jpg)
+  
+  
+  
 
 ## งานอดิเรก หรือ ความสามารถพิเศษ
 
@@ -53,3 +60,7 @@ C# คือ ภาษาคอมพิวเตอร์ประเภท  ob
 
 
 ## แนะนำเพื่อน คนรู้จัก หนังสือที่ชอบ หรือแหล่งเรียนรู้
+
+> เพื่อนที่อยากแนะนำ
+  > - 
+
