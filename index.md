@@ -51,6 +51,7 @@ C# คือ ภาษาคอมพิวเตอร์ประเภท  ob
   - [x] โครงการการสำรวจความคิดเห็นของประชาชนในการดำเนินงานตามแผนประชารัฐร่วมใจปลอดภัยยาเสพติด พ.ศ.2561
   
   
+  
   ![Image](https://raw.githubusercontent.com/Kronwarin/my-work-program/master/Untitled-3.jpg)
   
   
@@ -66,8 +67,9 @@ C# คือ ภาษาคอมพิวเตอร์ประเภท  ob
 
 ## แนะนำเพื่อน คนรู้จัก หนังสือที่ชอบ หรือแหล่งเรียนรู้
 
+
 > เพื่อนที่อยากแนะนำกับอาจารย์ ^^
-  > - ![Image](https://raw.githubusercontent.com/Kronwarin/my-work-program/master/%E0%B8%A3%E0%B8%B9%E0%B8%9B.jpg)
+  > - ![Image](https://raw.githubusercontent.com/Kronwarin/my-work-program/master/Untitled-5.jpg)
   
     คนแรกเป็นอาจารย์ชื่ออ.แนน นิสัยร่าเริง สอนเข้าใจง่าย
     
@@ -79,7 +81,9 @@ C# คือ ภาษาคอมพิวเตอร์ประเภท  ob
 
 ## ส่งงานขั้นตอนการทำงาน
 
+
 ![Image](https://raw.githubusercontent.com/Kronwarin/my-work-program/master/Untitled-4.jpg)
 
 
--ขอบคุณที่เข้ามาอ่านนะคะ หวังว่าจะให้ความรู้ไม่มากก็น้อย-
+
+## -ขอบคุณที่เข้ามาอ่านนะคะ หวังว่าจะให้ความรู้ไม่มากก็น้อย-
