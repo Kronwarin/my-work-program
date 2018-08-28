@@ -79,7 +79,7 @@ C# คือ ภาษาคอมพิวเตอร์ประเภท  ob
 
 ## ส่งงานขั้นตอนการทำงาน
 
-![Image](https://raw.githubusercontent.com/Kronwarin/my-work-program/master/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99.jpg)
+![Image](https://raw.githubusercontent.com/Kronwarin/my-work-program/master/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%99%E0%B8%B4%E0%B9%88%E0%B8%871.JPG)
 
 
 -ขอบคุณที่เข้ามาอ่านนะคะ หวังว่าจะให้ความรู้ไม่มากก็น้อย-
