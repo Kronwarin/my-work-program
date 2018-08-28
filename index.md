@@ -20,4 +20,4 @@
 
 [ภาษา C# ](http://marcuscode.com/lang/csharp)
 
-![Image](https://www.google.co.th/search?q=C%23+%E0%B8%84%E0%B8%B7%E0%B8%AD&source=lnms&tbm=isch&sa=X&ved=0ahUKEwirt6Wfmo_dAhWKMo8KHdVbAzYQ_AUICigB&biw=1366&bih=582#imgrc=ONh7w1qoQ9BbYM:)
+![Image](https://github.com/Kronwarin/my-work-program/blob/master/Untitled333.jpg)
